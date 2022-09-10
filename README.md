@@ -1,11 +1,39 @@
-- 👋 Hi, I’m @Codeghod
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hi 👋, I'm Alfred Turkson</h1>
+<h3 align="center">A passionate frontend developer froA simple guy ready to learn and contribute to the world of programmingm India</h3>
 
-<!---
-Codeghod/Codeghod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->Hi i am Codeghod and I am interested in becoming a software developer currently learning python and I am a beginner and looking to collaborate with people with good programming skills to help me grow in this and 
-To reach me: alfredturkson07@gmail.com or +233559566249 on WhatsApp 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codeghod&label=Profile%20views&color=0e75b6&style=flat" alt="codeghod" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeghod" alt="codeghod" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/ghodkojo" target="blank"><img src="https://img.shields.io/twitter/follow/ghodkojo?logo=twitter&style=for-the-badge" alt="ghodkojo" /></a> </p>
+
+- 🔭 I’m currently working on **final year project**
+
+- 🌱 I’m currently learning **python,django**
+
+- 👯 I’m looking to collaborate on **any python project**
+
+- 🤝 I’m looking for help with **any issue with python programming**
+
+- 💬 Ask me about **python, django**
+
+- 📫 How to reach me **alfredturkson07@gmail.com**
+
+- ⚡ Fun fact **I think i am still a student ready to learn**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ghodkojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ghodkojo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alfred turkson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alfred turkson" height="30" width="40" /></a>
+<a href="https://fb.com/kojo ghod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kojo ghod" height="30" width="40" /></a>
+<a href="https://instagram.com/kojo ghod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kojo ghod" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeghod&show_icons=true&locale=en&layout=compact" alt="codeghod" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeghod&show_icons=true&locale=en" alt="codeghod" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeghod&" alt="codeghod" /></p>
