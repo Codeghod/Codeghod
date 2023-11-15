@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/ghodkojo" target="blank"><img src="https://img.shields.io/twitter/follow/ghodkojo?logo=twitter&style=for-the-badge" alt="ghodkojo" /></a> </p>
 
-- 🔭 I’m currently working on **final year project**
+- 🔭 I’m currently working on **Data Science project**
 
-- 🌱 I’m currently learning **python,django**
+- 🌱 I’m currently learning **Python, Data Analytics, Data Science, Machine Learning**
 
 - 👯 I’m looking to collaborate on **any python project**
 
-- 🤝 I’m looking for help with **any issue with python programming**
+- 🤝 I’m looking for help with **any issue concerning python programming**
 
-- 💬 Ask me about **python, django**
+- 💬 Ask me about **python, Data Science, Machine Learning**
 
 - 📫 How to reach me **alfredturkson07@gmail.com**
 
-- ⚡ Fun fact **I think i am still a student ready to learn**
+- ⚡ Fun fact **I will remain a student ready to learn and open to great oppotunities**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
