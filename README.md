@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ghodkojo" target="blank"><img src="https://img.shields.io/twitter/follow/ghodkojo?logo=twitter&style=for-the-badge" alt="ghodkojo" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science project**
+- 🔭 I’m currently working on **Data Science projects**
 
 - 🌱 I’m currently learning **Python, Data Analytics, Data Science, Machine Learning**
 
